@@ -1,0 +1,31 @@
+{
+  "name": "Acme",
+  "spots": 5,
+  "members": [
+    {
+      "name": "John Doe",
+      "email": "john@doe.com",
+      "status": "Active"
+    },
+    {
+      "name": "Sarah Doe",
+      "email": "sarah@doe.com",
+      "status": "Active"
+    },
+    {
+      "name": "Steven Doe",
+      "email": "steven@doe.com",
+      "status": "Active"
+    },
+    {
+      "name": "Jen Doe",
+      "email": "jen@doe.com",
+      "status": "Active"
+    },
+    {
+      "name": "Joe Doe",
+      "email": "joe@doe.com",
+      "status": "Active"
+    }
+  ]
+}
